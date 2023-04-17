@@ -1,4 +1,8 @@
 #!/bin/bash
+
+## e.g. to generate Unstables-Funcons-Beta
+## $1 = Core, $2 = cbs/, #3 = <PATH://>Unstable-Funcons-Beta/
+
 CBSC=cbsc
 FDIR=${3%/}/$4
 HSDIR=${2%/}
