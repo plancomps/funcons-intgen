@@ -1,0 +1,4 @@
+ignore-project: False
+packages:      uu-cco-0.1.0.6
+              ,funcons-tools-0.2.0.14
+
